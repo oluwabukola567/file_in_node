@@ -1,0 +1,6 @@
+MY FIRST READ APPLICATION
+I created this document during siwes program, in order
+for me to insert it into my javascript code, this is to 
+check if i was able to link or read document into my application 
+i.e word document.
+
